@@ -1,6 +1,5 @@
 # Placement-management-system
  
-Algorithm:
 
 Start
 
